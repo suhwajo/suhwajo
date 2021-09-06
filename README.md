@@ -1,5 +1,12 @@
-### Hi there 👋
+### Su-Hwa Jo
 
+###### Pukyong National University IT Convergence and Application Engineering 4 Engineering Building 314, 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea
+###### PKNU Artificial Intelligence Research Center - Video Communication Lab  (2019.06 ~ Present)
+######    
+###### - CV    : [Su-Hwa Jo](https://github.com/suhwajo/suhwajo/blob/main/SuHwa_Jo_CV.pdf)
+######     
+###### - EMAIL : shuajo412@gmail.com
+###### - TEL   : +82-10-3201-5015
 <!--
 **suhwajo/suhwajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
