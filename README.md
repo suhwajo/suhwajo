@@ -1,7 +1,7 @@
 ### Su-Hwa Jo
 
 ###### Pukyong National University IT Convergence and Application Engineering 4 Engineering Building 314, 365, Sinseon-ro, Nam-gu, Busan, Republic of Korea
-###### PKNU Artificial Intelligence Research Center - Video Communication Lab  (2019.06 ~ Present)
+###### PKNU Artificial Intelligence Research Center - Video Communication Lab  (2019.06 ~ 2023.02)
 ######    
 ###### - CV    : [Su-Hwa Jo](https://github.com/suhwajo/suhwajo/blob/main/SuHwa_Jo_CV.pdf)
 ######     
